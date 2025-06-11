@@ -2,6 +2,7 @@
 
 A beautiful and clean profile screen built with Flutter.  
 This is part of my Flutter learning journey to improve my UI skills and hands-on practice.
+Its my first hands-on practice of flutter during my learning stage.
 
 ## 📱 Screenshot
 
